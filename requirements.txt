@@ -2,3 +2,4 @@ newsapi-python
 sentence-transformers
 pandas
 ipywidgets
+voila
