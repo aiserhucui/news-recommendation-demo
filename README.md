@@ -1,5 +1,5 @@
-Core Research Frameworks & Key Achievements
-This repository is organized into three primary pillars, addressing critical bottlenecks in climate data processing, supply chain visibility, and decarbonization economics.
+**Core Research Frameworks & Key Achievements
+This repository is organized into three primary pillars, addressing critical bottlenecks in climate data processing, supply chain visibility, and decarbonization economics.**
 
 1. Multi-Tier Scope 3 Emissions Modeling via Heterogeneous Graph Transformers
 File: GHG_Scope3_MultiTier_HGT.ipynb
