@@ -9,7 +9,7 @@ An open-source research repository leveraging advanced machine learning architec
 This repository is organized into three primary pillars, addressing critical bottlenecks in climate data processing, supply chain visibility, and decarbonization economics.
 
 ### 1. Multi-Tier Scope 3 Emissions Modeling via Heterogeneous Graph Transformers
-* **File:** `GHG_Scope3_MultiTier_HGT.ipynb`
+* **File:** [`GHG_Scope3_MultiTier_HGT.ipynb`](https://github.com/aiserhucui/Sustainability-AI-Project/blob/main/GHG_Scope3_MultiTier_HGT.ipynb)
 * **Deployment & Rendering:**
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aiserhucui/Sustainability-AI-Project/blob/main/GHG_Scope3_MultiTier_HGT.ipynb) &nbsp; [![View on NBViewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/aiserhucui/Sustainability-AI-Project/blob/main/GHG_Scope3_MultiTier_HGT.ipynb)
 * **Objective:** To model non-homogeneous entity metadata and complex physical topologies inherent in global supply chains.
@@ -22,7 +22,7 @@ This repository is organized into three primary pillars, addressing critical bot
 ---
 
 ### 2. Geospatial Self-Supervised Learning using Earth Masked Autoencoders (EarthMAE)
-* **File:** `EarthMAE_Self_Supervised_Final.ipynb`
+* **File:** [`EarthMAE_Self_Supervised_Final.ipynb`](https://github.com/aiserhucui/Sustainability-AI-Project/blob/main/EarthMAE_Self_Supervised_Final.ipynb)
 * **Deployment & Rendering:**
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aiserhucui/Sustainability-AI-Project/blob/main/EarthMAE_Self_Supervised_Final.ipynb) &nbsp; [![View on NBViewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/aiserhucui/Sustainability-AI-Project/blob/main/EarthMAE_Self_Supervised_Final.ipynb)
 * **Objective:** To extract robust, high-fidelity representations from unlabelled remote sensing and geospatial data for environmental monitoring.
@@ -35,7 +35,7 @@ This repository is organized into three primary pillars, addressing critical bot
 ---
 
 ### 3. Dynamic Marginal Abatement Cost Curve (MACC) Optimization
-* **File:** `Dynamic_MACC.ipynb`
+* **File:** [`Dynamic_MACC.ipynb`](https://github.com/aiserhucui/Sustainability-AI-Project/blob/main/Dynamic_MACC.ipynb)
 * **Deployment & Rendering:**
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aiserhucui/Sustainability-AI-Project/blob/main/Dynamic_MACC.ipynb) &nbsp; [![View on NBViewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/aiserhucui/Sustainability-AI-Project/blob/main/Dynamic_MACC.ipynb)
 * **Objective:** To transform static carbon abatement models into dynamic, multi-period investment decision-support tools.
